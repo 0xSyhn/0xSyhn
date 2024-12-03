@@ -13,7 +13,7 @@ I'm a passionate software developer and a machine learning enthusiast with a kna
 
 ## 📬 Contact Me  
 
-If you have any questions, collaborations, or just want to chat about machine learning, feel free to reach out to me:  
+If you have any questions, collaborations, or just want to chat, feel free to reach out to me:  
 
 - LinkedIn: https://www.linkedin.com/in/sayhan-ali-368726221/
 - Email: sayhan.ali@gmail.com 
