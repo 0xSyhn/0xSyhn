@@ -1,4 +1,4 @@
-## Hi there, I am Sayhan Ali! 👋
+## Hi there, Sayhan here! 👋
 
 I'm a passionate software developer and a machine learning enthusiast with a knack for exploring and implementing cutting-edge algorithms and techniques. Welcome to my GitHub repository.
 
