@@ -6,7 +6,6 @@ I'm a passionate software developer and a machine learning enthusiast with a kna
 - 🎓 I'm currently pursuing a Bachelor's in Computer Engineering, majoring in AI/ML.  
 - 💼 Professionally, I'm very interested in pursuing a career in Software Engineering.  
 - 🌱 I'm constantly learning to get better at what I do.  
-- ⚡ Fun fact: 
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,tailwind,nextjs,react,fastapi,flask,tensorflow,git,mysql,firebase,supabase,mongodb,gcp)](https://skillicons.dev)
