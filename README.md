@@ -9,7 +9,7 @@ I'm a passionate software developer and a machine learning enthusiast with a kna
 - ⚡ Fun fact: 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,tailwind,nextjs,react,fastapi,flask,tensorflow,git,mysql,firebase,supabase,mongodb,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,tailwind,nextjs,react,fastapi,flask,tensorflow,git,mysql,firebase,supabase,mongodb,gcp)](https://skillicons.dev)
 
 ## 📬 Contact Me  
 
